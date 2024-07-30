@@ -8,6 +8,8 @@ public class Program1{
 		int c = sc.nextInt();
 		int sum = a+b+c;
 		System.out.println(sum);
+		double avg = sum/3;
+		System.out.println(avg);
 
 	}
 }
